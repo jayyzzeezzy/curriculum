@@ -36,12 +36,18 @@ Now, if you’re completely stuck with where to start, it’s completely fine to
 
 People who volunteer in coding communities are here to help! But a question you may feel is coherent and “obvious” probably isn’t if you are being asked for more context. While something may seem "obvious" to a beginner, it's sometimes nowhere near "obvious" to an expert. An expert knows about many, many more situations that could cause an issue someone is experiencing, and would want to refrain from sending a learner down the wrong path. People take time out of their day to help, so make it as easy as possible for them to help you! There’s probably a good reason why they need more information, so trust their judgment and experience when they ask. Many people who help in coding chats are unpaid volunteers, and are in no way obligated to answer your query. But because they truly do want to help you, they will ask for more information when needed!
 
+#### Random tips
+
+I don't know what I'm talking about here. I'm just writing this to test out the open source workflow as well as to get some practice in. Hopefully I remember this when I work on another open source project.
+
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
+
 1. [Don't ask to ask, just ask](https://dontasktoask.com/) demonstrates the importance of just asking your question and not asking to ask your question.
 2. Read about the [“XY Problem”](https://xyproblem.info/), which is a common pitfall both new and experienced programmers fall into when asking questions.
 3. Read and bookmark our community guide [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask). It is a great reference to refer to whenever you find yourself needing to ask for help, and you might find yourself solving your own problem as you think about the points listed in the article.
+
 </div>
 
 ### Knowledge check
